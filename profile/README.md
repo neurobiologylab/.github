@@ -2,16 +2,14 @@
 
 Welcome to NBI (Neurobiology and Biophysics Interface) lab Github account!
 
-## About Us
-
 ## Our Missions
- - SCIENTIFIC DISCOVERIES
+ - Scientific Discoveries
  
 We are studying the fundamental scientific principles at the interfaces of biological and material systems. 
 
 Curiosity has the boundless power to drive scientific discoveries. We acquire inspiration from biophysics, material science and engineering, electronics and neurobiology and investigate the phenomena of magnetism, electricity, chemistry and optics between the material and nervous systems. These fundamental principles can further guide us to effective engineering designs for biomedical applications.
 
- - BIOTECHNOLOGY ADVANCEMENT
+ - Biotechnology Advancement
  
 We are developing effective engineering methodologies to investigate neurobiological questions. 
 
