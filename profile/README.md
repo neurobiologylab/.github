@@ -1,6 +1,6 @@
-# NBI Lab
+# Neurobiological Interfaces Rao Lab
 
-Welcome to NBI (Neurobiology and Biophysics Interface) lab Github account!
+Welcome to the NBI Rao Lab (Neurobiological Interfaces Rao Lab) Github account!
 
 ## Our Missions
  - Scientific Discoveries
